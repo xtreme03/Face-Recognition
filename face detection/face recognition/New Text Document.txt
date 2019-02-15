@@ -1,0 +1,3 @@
+creating dataset
+train the recognizer from dataset
+detector
